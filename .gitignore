@@ -1,0 +1,8 @@
+node_modules
+components
+bower_components
+.idea
+*.zip
+.metadata
+Thumbs.db
+npm-debug.log
