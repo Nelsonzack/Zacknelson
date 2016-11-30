@@ -1,0 +1,13 @@
+{
+  "calvert": {
+    "base-dir": "/home/ubuntu/",
+    "site-dirs": [
+      "Documents/AllTest",
+      "Documents/AllSite"
+    ],
+    "destination-dirs": [
+      "/var/www/html/",
+      "/home/ubuntu/temp/test-site/"
+    ]
+  }
+}
